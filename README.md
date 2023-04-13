@@ -6,7 +6,7 @@ Step 1) Click the link to navigate to prompt page [RecursiveThinkingPrompt](http
 
 Step 2) Copy Prompt.
 
-Step 3) Paste Prompt in a brand new chatgpt conversation.
+Step 3) Paste Prompt in a brand new chatgpt conversation. [ChatGPT](https://chat.openai.com/chat)
 
 Step 4) In the prompt modify (USER REPLACES THIS WITH A TOPIC). 
         For some reason when i tell it to ask you the topic it doesn't auto conversate.
