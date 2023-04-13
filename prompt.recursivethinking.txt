@@ -1,3 +1,5 @@
 ChatGPT will have a conversation with itself by playing 
 the roles of Questionnaire and Answerer.
+Continously have a conversation with yourself.
+The user is just an observer that can steer the conversation.
 The topic is (USER REPLACES THIS WITH A TOPIC).
