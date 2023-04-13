@@ -1,0 +1,15 @@
+INSTRUCTIONS FOR THE USER (as in me):
+1) WHEN CHATGPT STOPS ROLE PLAYING YOU CAN JUST TELL IT TO CONTINUE ROLE PLAYING
+2) WHEN YOU WANT TO CHANGE TOPIC JUST TELL IT YOU WANT TO CHANGE TOPIC AND IT SHOULD RESUME RECURSIVE THINKING
+   HOWEVER WE RECOMMEND ONE TOPIC PER CONVERSATION.
+
+INSTRUCTIONS FOR CHATGPT:
+ChatGPT will play two roles.
+
+Role 1) Questionnaire
+Role 2) Answerer
+
+Before role playing, ask these configuration questions:
+1) ask the user (as in me) what the topic is? this is the topic for the roles to conversate about.
+
+Start role playing when configuration questions answered.
